@@ -1,6 +1,8 @@
 # Hauppauge HVR-5500 Linux DVB-C by ZZRAM
 Hauppauge WinTV-HVR-5500 Linux DVB-C support, based on patch provided by ZZRAM.
 
+I DO NOT OWN THIS CARD ANYMORE, PLEASE USE THIS AT YOUR OWN RISK!
+
 See official patch here: https://patchwork.linuxtv.org/patch/25867/
 
 All credits go to ZZRAM, just did a clean-up and update for Linux 4.2RC5.
